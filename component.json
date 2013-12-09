@@ -1,6 +1,6 @@
 {
   "name": "signature-pad",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "private": true,
   "license": "BSD-3-CLAUSE",
   "description": "SignaturePad: A jQuery plugin for assisting in the creation of an HTML5 canvas based signature pad. Records the drawn signature in JSON for later regeneration.",
@@ -10,7 +10,7 @@
     "email": "hey@thomasjbradley.ca",
     "url": "http://thomasjbradley.ca"
   },
-  "main":"./jquery.signature-pad.js" 
+  "main":"jquery.signature-pad.js", 
   "repository": {
     "type": "git",
     "url": "https://github.com/amicus/signature-pad"
